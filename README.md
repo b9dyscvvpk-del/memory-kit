@@ -1,4 +1,4 @@
-# GPT Echo memory kit
+memory kit
 
 Built 2026-10-21 by Wren, for Harbor Cove Candor, carried by Willow.
 Everything here is plain text or plain Python 3 (standard library only, nothing to install).
